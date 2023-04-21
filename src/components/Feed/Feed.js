@@ -14,7 +14,6 @@ const Feed = () => {
     return (
         <div id="feed">
             <Header></Header>
-            
             <div id="posts">
                 <Post postDetails = {postdetail}/>
             </div>
